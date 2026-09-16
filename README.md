@@ -1,5 +1,5 @@
 # uci_lsci_intro_programming_hw8
-The eight homework assignment from LSCI 109: Introduction to Programming for Language Science
+The eight homework assignment from LSCI 107P: Introduction to Programming for Language Science
 
 This homework consists of 2 problems, one in each of the following Python scripts:
 * regex.py
